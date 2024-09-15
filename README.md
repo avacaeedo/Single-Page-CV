@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is a simple, single-page HTML-based CV (Curriculum Vitae) showcasing the professional profile of Efren Pongase, a Junior Web Developer. The page includes sections on contact information, skills, education, experience, and online presence.
+This project is a single-page HTML-based CV (Curriculum Vitae) for Efren Pongase, a Junior Web Developer. It showcases personal information, skills, educational background, professional experience, and online presence in a clean, single-page format.
 
 ## Features
 
@@ -14,9 +14,13 @@ This project is a simple, single-page HTML-based CV (Curriculum Vitae) showcasin
 - **Experience**: Highlights professional experience and accomplishments.
 - **Media**: Includes links to social media and professional profiles.
 
+## Live Demo
+
+You can view the live demo of this project [here](https://roadmap.sh/projects/single-page-cv).
+
 ## Usage
 
-To view this CV, you can simply open the HTML file in any web browser. The file is self-contained and does not require additional resources.
+To view this CV, open the HTML file in any web browser. The file is self-contained and does not require additional resources.
 
 ## Structure
 
